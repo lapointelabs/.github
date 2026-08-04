@@ -2,7 +2,7 @@
 
 # Lapointe Labs
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Instrument+Serif&weight=400&size=24&duration=3800&pause=1000&color=4C2626&center=true&vCenter=true&width=680&lines=AI+Implementation+Audits;Find+why+the+demo+stalled;Put+numbers+on+the+ordinary+reasons)](https://lapointelabs.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Instrument+Serif&weight=400&size=24&duration=3800&pause=1000&color=C99580&center=true&vCenter=true&width=680&lines=AI+Implementation+Audits;Find+why+the+demo+stalled;Put+numbers+on+the+ordinary+reasons)](https://lapointelabs.com)
 
 **$7,500** · **2 weeks** · **One engineer, named**
 
