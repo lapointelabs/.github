@@ -30,7 +30,6 @@ Companies fall behind on AI for ordinary reasons — ownership gaps, sequencing 
 ### Repositories
 
 - **[context-brief](https://github.com/lapointelabs/context-brief)** — Practical context templates for ChatGPT, Cursor, Claude Code, and coding agents
-- **labs** — Marketing site for [lapointelabs.com](https://lapointelabs.com)
 
 ---
 
